@@ -15,7 +15,7 @@ This repository hosts the official GitHub Pages site for the book.
 
 View the site here:
 
-https://JJRyan0.github.io/survival-japanese-tourists/
+https://jjryan0.github.io/survival-japanese-tourists/
 
 ## ✍️ Author
 
