@@ -9,18 +9,6 @@ in Japan—without grammar overload.
 focuses on real-life travel situations such as food, transport, shopping,
 accommodation, and emergencies.
 
-This repository hosts the official GitHub Pages site for the book.
-
-## 🌐 Live Site
-
-View the site here:
-
-https://jjryan0.github.io/survival-japanese-tourists/
-
-## ✍️ Author
-
-**John Ryan**
-
 ## 🛒 Buy the Book
 
 Available on Amazon Kindle  
@@ -29,3 +17,8 @@ Available on Amazon Kindle
 ➡️ Spanish version: [Amazon link here](https://www.amazon.com/dp/B0GDS6VHTZ)
 
 ➡️ Portuguese version: [Amazon link here](https://www.amazon.com.br/dp/B0GDR5NK32)
+
+
+## ✍️ Author
+
+**John Ryan**
