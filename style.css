@@ -130,3 +130,33 @@ footer {
   font-size: 0.9rem;
   color: #666;
 }
+.sales-letter {
+    font-family: inherit !important;  /* make it match body */
+    color: #222 !important;
+    background: #fff !important;
+    max-width: 750px !important;
+    margin: 3rem auto !important;
+    padding: 2rem 1.5rem !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1) !important;
+}
+
+.sales-letter h2, .sales-letter h3 {
+    color: #b71c1c !important;
+    text-align: center;
+}
+
+.sales-letter p, .sales-letter li {
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+}
+
+.sales-letter .cta {
+    background: #d32f2f !important;
+    color: white !important;
+    display: inline-block !important;
+    padding: 0.8rem 1.6rem !important;
+    border-radius: 6px !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
