@@ -162,16 +162,17 @@ footer {
 }
 .other-editions {
   max-width: 600px;
-  margin: 2.5rem auto;
-  text-align: center;
+  margin: 3rem auto;          /* centers the whole section */
   padding: 1.5rem;
-  background: #fff;  /* same as sales letter */
+  background: #fff;            /* same as sales letter */
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;          /* center text and buttons */
+  font-family: inherit;        /* match page font */
 }
 
 .other-editions h2 {
-  color: #b71c1c;
+  color: #b71c1c;             /* red like other headings */
   margin-bottom: 0.5rem;
 }
 
@@ -180,8 +181,14 @@ footer {
   font-size: 1rem;
 }
 
+.other-editions .edition-links {
+  display: flex;
+  justify-content: center;     /* center buttons horizontally */
+  gap: 1rem;                   /* space between buttons */
+  flex-wrap: wrap;             /* wrap on small screens */
+}
+
 .other-editions .edition-links a {
-  margin: 0.5rem;
   display: inline-block;
   background: #d32f2f;
   color: white;
@@ -194,4 +201,3 @@ footer {
 .other-editions .edition-links a:hover {
   opacity: 0.9;
 }
-
