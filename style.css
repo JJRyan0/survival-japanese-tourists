@@ -160,3 +160,38 @@ footer {
     text-decoration: none !important;
     font-weight: bold !important;
 }
+.other-editions {
+  max-width: 600px;
+  margin: 2.5rem auto;
+  text-align: center;
+  padding: 1.5rem;
+  background: #fff;  /* same as sales letter */
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.other-editions h2 {
+  color: #b71c1c;
+  margin-bottom: 0.5rem;
+}
+
+.other-editions p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.other-editions .edition-links a {
+  margin: 0.5rem;
+  display: inline-block;
+  background: #d32f2f;
+  color: white;
+  padding: 0.8rem 1.6rem;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.other-editions .edition-links a:hover {
+  opacity: 0.9;
+}
+
